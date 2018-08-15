@@ -8,7 +8,7 @@ namespace SortSpace
 {
     class InsertSort
     {
-        public static void sort(List<int> list)
+        public static void Sort(List<int> list)
         {
             for (int i = 1; i < list.Count; i++)
             {
