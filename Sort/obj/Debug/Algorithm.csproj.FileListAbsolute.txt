@@ -1,0 +1,6 @@
+E:\UnitySpace\LogicalThinking\Sort\bin\Debug\Sort.exe.config
+E:\UnitySpace\LogicalThinking\Sort\bin\Debug\Sort.exe
+E:\UnitySpace\LogicalThinking\Sort\bin\Debug\Sort.pdb
+E:\UnitySpace\LogicalThinking\Sort\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+E:\UnitySpace\LogicalThinking\Sort\obj\Debug\Sort.exe
+E:\UnitySpace\LogicalThinking\Sort\obj\Debug\Sort.pdb
