@@ -1,0 +1,5 @@
+E:\UnitySpace\LogicalThinking\ClasscialMathematics\bin\Debug\ClasscialMathematics.exe.config
+E:\UnitySpace\LogicalThinking\ClasscialMathematics\bin\Debug\ClasscialMathematics.exe
+E:\UnitySpace\LogicalThinking\ClasscialMathematics\bin\Debug\ClasscialMathematics.pdb
+E:\UnitySpace\LogicalThinking\ClasscialMathematics\obj\Debug\ClasscialMathematics.exe
+E:\UnitySpace\LogicalThinking\ClasscialMathematics\obj\Debug\ClasscialMathematics.pdb

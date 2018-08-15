@@ -26,7 +26,12 @@ namespace SortSpace
             foreach (int item in targetList)
             {
                 Console.WriteLine(item);
-            }
+            }             
         }
+
+
+
+
+
     }
 }
