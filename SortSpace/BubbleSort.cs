@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SortSpace
 {
+    /// <summary>
+    /// 冒泡排序
+    /// </summary>
     class BubbleSort
     {
         public static void Sort(List<int> data)
