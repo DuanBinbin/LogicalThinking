@@ -11,6 +11,7 @@ namespace ClasscialMathematics
         static void Main(string[] args)
         {
             NarcissisticNumber.Execute(500);
+            Console.WriteLine("-1>>1 = {0}",-1>>10);
         }
     }
 }
